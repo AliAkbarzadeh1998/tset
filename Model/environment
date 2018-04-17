@@ -1,0 +1,11 @@
+{
+  "database":{
+  "driver" : "mysql",
+  "host"   : "localhost",
+  "dbname" : "bongahkhone" ,
+  "user"   : "root",
+  "table_prefix":"khone_",
+  "password": "",
+  "charset" : "utf8"
+  }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47c63d82-9370-43fc-9349-fefa30af1e83" name="bongahkhone" url="http://148.251.131.61">
+        <fileTransfer host="148.251.131.61" port="21" rootFolder="/bongahkhone.ir">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
