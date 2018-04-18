@@ -2,7 +2,7 @@
 global $config;
 $config['db']['host']='localhost';
 $config['db']['user']='webplus2_ali';
-$config['db']['pass']='221155';
+$config['db']['pass']='221155aaaaaaa';
 $config['db']['name']='webplus2_shop';
 
 $config['address'] = array(
